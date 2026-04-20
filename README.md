@@ -115,3 +115,4 @@ Total = (Sum of slice prices - discounts + extras) × Quantity + ₹10 Platform 
 - Cheese + Paneer together → **-₹3 discount**
 - Two consecutive Aloo Tikki → **+₹2 extra**
 - More than 6 fillings → show chef warning message
+npm run dev
